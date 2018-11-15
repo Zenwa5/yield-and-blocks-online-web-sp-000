@@ -1,5 +1,3 @@
-
-
 # call your method here!
 ["Tim", "Tom", "Jim"]
 hello_t(["Tim", "Tom", "Jim"]) do |name|
